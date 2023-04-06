@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ludzikk&label=Profile%20views&color=0e75b6&style=flat" alt="ludzikk" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JS**
+- 🌱 I’m currently learning **JS**
 
 ~~- 👨‍💻 All of my projects are available at [http://frontendportfolio.pl/](http://frontendportfolio.pl/)~~
 
