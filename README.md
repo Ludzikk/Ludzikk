@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JS**
 
-~~- 👨‍💻 All of my projects are available at [http://frontendportfolio.pl/](http://frontendportfolio.pl/)~~
+- My site, with all informations: https://rafdev.pl/
 
 - 📫 How to reach me **rafal.klocek.praca@gmail.com**
 
