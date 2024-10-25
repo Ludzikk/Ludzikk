@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ludzikk&label=Profile%20views&color=0e75b6&style=flat" alt="ludzikk" /> </p>
 
-- 🌱 I’m currently learning **React**
+- I’m currently learning **React**
 
 - My site, with all informations: https://rafdev.pl/
 
-- 📫 How to reach me **rafal.klocek.praca@gmail.com**
+- How to reach me **rafal.klocek.praca@gmail.com**
 
 - Discord: .ludzik
 
