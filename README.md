@@ -6,7 +6,7 @@
 
 - I’m currently learning **React**
 
-- My site, with all informations: https://rafdev.pl/
+- My site, with all informations: rafdev.pl/
 
 - How to reach me **rafal.klocek.praca@gmail.com**
 
